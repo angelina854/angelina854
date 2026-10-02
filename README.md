@@ -1,9 +1,23 @@
-class Animal: def init(self, name, age): self.name = name self.age = age
-def eat(self):
-    pass
+# 👋 Привет, я Круглова
 
-def sleep(self):
-    pass
-class Bird(Animal): def fly(self): pass
-class Fish(Animal): def swim(self): pass
-class Mammal(Animal): def walk(self): pass
+Рада знакомству!
+
+## 🙋‍♀️ Обо мне
+
+- **Имя:** Круглова
+- **Пол:** женский
+- **Возраст:** 18 лет
+- **Страна:** Россия 🇷🇺
+- **GitHub:** [angelina854](https://github.com/angelina854)
+
+## 🛠 Знаю языки программирования
+
+- **Python** 🐍
+- **HTML** 🌐
+
+## 📬 Связаться со мной
+
+- **GitHub:** <https://github.com/angelina854>
+- **Email:** [angelinak2008@icloud.com](mailto:angelinak2008@icloud.com)
+
+---
